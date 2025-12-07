@@ -1,0 +1,6 @@
+flask
+httpx
+fastmcp
+langchain
+langchain-community
+mcp
